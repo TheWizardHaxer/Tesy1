@@ -11,7 +11,7 @@ var authors = "Gilles-Philippe Paillé";
 var version = 1;
 
 var q = BigNumber.ZERO;
-var r = BigNumber.ONE;
+var r = 10 * BigNumber.ONE;
 var previousCurrency = BigNumber.ZERO;
 var C = BigNumber.ZERO;
 
